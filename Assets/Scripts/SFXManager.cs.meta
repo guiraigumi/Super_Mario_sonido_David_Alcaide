@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 579f6c8e7429310449225a315c947b6d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - deathSFX: {fileID: 8300000, guid: 5d4a567b8943bc04cb7e19b690f32897, type: 3}
+  - goombaSFX: {fileID: 8300000, guid: d4cce654cc0b6d34980472f06f6201d1, type: 3}
+  - coinSFX: {fileID: 8300000, guid: d13b8483012cbe34b8dea3921251dcdb, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
